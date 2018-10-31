@@ -1,2 +1,2 @@
 # Learning-Log
-Maintaining a log of all of the resources I have used to learn software development. 
+This is a log documenting the resources I have used, and my confidence in the skills I have developed. 
